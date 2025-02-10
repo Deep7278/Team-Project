@@ -1,2 +1,2 @@
 # Team-Project
-Secure &amp; Smart Decentralized Appointment Booking
+Smart &amp; Secure Decentralized Appointment Booking
